@@ -1,2 +1,3 @@
 # WOTLK.Bugtracker
-The bugtracker for the https://www.wotlk.com project.
+
+Please report issues or bugs you find during alpha testing here: [issues](https://github.com/WotlkWoW/WOTLK.Bugtracker/issues)
